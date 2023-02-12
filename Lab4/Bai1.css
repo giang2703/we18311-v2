@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+em{
+    font-variant: small-caps;
+    font-size: 20px ;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px ;
+}
+h2{ 
+    color: white ;
+    text-shadow: 0 0 5px red ;
+}
+body{
+    text-align: center;
+}
+strong{color:rgb(112, 7, 51);}
+        em.doan1{color:rgb(5, 85, 65);}
+        em.doan2{color:rgb(41, 5, 75);}
+=======
+em{
+    font-variant: small-caps;
+    font-size: 20px ;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px ;
+}
+h2{ 
+    color: white ;
+    text-shadow: 0 0 5px red ;
+}
+body{
+    text-align: center;
+}
+strong{color:rgb(112, 7, 51);}
+        em.doan1{color:rgb(5, 85, 65);}
+        em.doan2{color:rgb(41, 5, 75);}
+>>>>>>> 89529ee5f47875a82b80d60fe7fbe2ffd7b58195
+        em.doan3{color:rgb(0, 162, 255);}

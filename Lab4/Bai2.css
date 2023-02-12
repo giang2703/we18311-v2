@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+menu>a{
+    font-variant: small-caps;
+    color: green ;
+    text-decoration: none ;
+}
+menu>a:visited{
+    color: blue ;
+}
+menu>a:hover{
+    color:red ;
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+}
+div{
+    font-variant: small-caps;
+    font-size: 20px ;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px ;
+=======
+menu>a{
+    font-variant: small-caps;
+    color: green ;
+    text-decoration: none ;
+}
+menu>a:visited{
+    color: blue ;
+}
+menu>a:hover{
+    color:red ;
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+}
+div{
+    font-variant: small-caps;
+    font-size: 20px ;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px ;
+>>>>>>> 89529ee5f47875a82b80d60fe7fbe2ffd7b58195
+}

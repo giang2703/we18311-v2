@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+.column{
+    width: 25%;
+    float: left;
+}
+.san_pham{
+    border-radius: 10px;
+    box-shadow: 0 0 5px brown;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.san_pham.ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: chartreuse;
+}
+.san_pham img{
+    max-width: 95%;
+}
+.san_pham .gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.san_pham .gia del{
+    color: gray ;
+=======
+.column{
+    width: 25%;
+    float: left;
+}
+.san_pham{
+    border-radius: 10px;
+    box-shadow: 0 0 5px brown;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.san_pham.ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: chartreuse;
+}
+.san_pham img{
+    max-width: 95%;
+}
+.san_pham .gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.san_pham .gia del{
+    color: gray ;
+>>>>>>> 89529ee5f47875a82b80d60fe7fbe2ffd7b58195
+}
