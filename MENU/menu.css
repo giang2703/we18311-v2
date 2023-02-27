@@ -42,13 +42,13 @@
   }
   .container .nav ul a {
     text-decoration: none;
-    color: #f8f8f8;
+    color: #fdfdfd;
     display: flex;
     padding: 15px;
   }
   .container .nav ul a:hover {
     text-decoration: none;
-    color: rgb(123, 10, 189);
+    color: rgb(60, 23, 82);
     display: flex;
     padding: 15px;
     background-color: #ad9d9d;
@@ -57,7 +57,7 @@
     position: absolute;
     display: none;
     background-color: #ad9d9d;
-    box-shadow: 0 0 5px rgba(170, 104, 104, 0.3);
+    box-shadow: 0 0 5px rgba(173, 104, 104, 0.3);
   }
   .container .nav .text-nav .sub-nav a {
     display: flex;
